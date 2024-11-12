@@ -1,0 +1,4 @@
+- [[Gesellschaft mit beschränkter Haftung (GmbH)]]
+- [[Aktiengesellschaft (AG)]]
+- [[Unternehmergesellschaft (UG)]]
+-

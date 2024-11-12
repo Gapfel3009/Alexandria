@@ -1,0 +1,14 @@
+-
+- Eigenschaften einer OHG
+	- **Gründung**
+		-
+	- **Name der Firma**
+		- test1
+	- **Geschäftsführung und Vertretung**
+		- test2
+	- **Kapitalaufbringung**
+		- test3
+	- **Haftung**
+		- test4
+	- **Erfolgsverteilung**
+		- test5

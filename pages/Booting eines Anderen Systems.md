@@ -1,0 +1,2 @@
+- Bei vielen System ist es sehr simpel man steckt seinen USB-Stick rein und durch die veränderte Boot Reihenfolge wird das System über den Boot-Stick quasi automatisch gestartet und dann muss man die Doku des Systems lesen und dieser folgen. 
+  Nutzt man statt Etcher, Ventoy dann kann man mehrere Systeme auf dem Boot-stick haben, dann muss man beim booten auswählen welches System man draufladen möchte.

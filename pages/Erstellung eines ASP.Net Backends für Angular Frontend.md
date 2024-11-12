@@ -1,0 +1,3 @@
+- [[Backend in Visual Studio erstellen]]
+- [[Angular Frontend in Visual Studio Code erstellen]]
+- [[Verbindung von ASP.Net Backends & Angular Frontend mittels NSwag]]

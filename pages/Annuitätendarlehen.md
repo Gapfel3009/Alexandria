@@ -1,0 +1,5 @@
+- Berechnung des Annuitätendarlehens
+	- Zur Berechnung muss man 3 Formeln beachten und kann mit deren Hilfe diese Art des [Ratenkaufs]([[Ratenkauf]]) relativ einfach ausrechnen
+		- Annuität= Kreditsumme * ((1 + Zinssatz)^Zeit * Zinssatz)/((1 + Zinssatz)^Zeit - 1)
+		- Tilgung = Annuität - Zinsen des Jahres
+		- Restschulden am ende des Jahres= Restschulden am Anfang des Jahres - Tilgung

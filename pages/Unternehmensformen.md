@@ -1,0 +1,6 @@
+- Grundsätzlich unterscheidet man zwischen [[Einzelunternehmen]] und [[Gesellschaftsunternehmen]] , die Gesellschaftsunternehmen wiederum werden in [[Personengesellschaften]] und [[Kapitalgesellschaften]] unterteilt
+- In den Gesellschaftsverträgen werden die Grundsatzentscheidungen der Unternehmensgründer dokumentiert. Je nach Rechtsform sind bei der Abfassung der Gesellschaftsverträge gesetzliche Vorschriften aus Spezialgesetzen zu beachten (HGB, Aktiengesetz, GmbH-Gesetz)
+-
+- Unternehmensformen/Rechtformen Bildlich dargestellt
+	- ![image.png](../assets/image_1715933861791_0.png)
+-

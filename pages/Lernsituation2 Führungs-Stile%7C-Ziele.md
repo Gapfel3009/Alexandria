@@ -1,0 +1,5 @@
+- [[Führungsstile]]
+	- [[Autoritär]]
+	- [[Kooperativ]]
+	- [[laissez-faire]]
+- [[Führungsziele]]

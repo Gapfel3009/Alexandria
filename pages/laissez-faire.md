@@ -1,0 +1,2 @@
+- Im Laissez-fairen [Führungsstil]([[Führungsstile]]) ist der Entscheidungsspielraum der Mitarbeiter am höchsten. Mitarbeitern werden größtmögliche Freiheit eingeräumt, es gibt keine Kontrollierung von den Mitarbeitern. 
+  Damit dieser Führungsstil funktioniert muss der Mitarbeiter eigenständig und verantwortungsbewusst sein und handeln.

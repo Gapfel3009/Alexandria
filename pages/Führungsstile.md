@@ -1,0 +1,5 @@
+- Führungsstil ist die Art und weise wie Mitarbeiter mit vorgesetzten umzugehen haben und anders rum, dabei unterscheiden wir unter drei Verschiedene Arten:
+	- [[Autoritär]]
+	- [[Kooperativ]]
+	- [[laissez-faire]]
+-

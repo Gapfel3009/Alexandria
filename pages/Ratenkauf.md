@@ -1,0 +1,3 @@
+- Unterarten des Ratenkaufs:
+	- [[Annuitätendarlehen]]
+	- [[Fälligkeitsdarlehen]]

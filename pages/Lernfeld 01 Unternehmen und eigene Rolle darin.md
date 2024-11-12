@@ -1,0 +1,9 @@
+- [[Lernsituation 1 Unternehmensleitbild & Share-|Steak-holder]]
+- [[Lernsituation2 Führungs-Stile|-Ziele]]
+- [[Lernsituation 3 Organisation]]
+- [[Lernsituation 4 Rechtsformen]]
+- [[Lernsituation 5 Kaufmann & Handelsregister & Vollmachten]]
+-
+-
+-
+-

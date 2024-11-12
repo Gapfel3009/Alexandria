@@ -1,0 +1,3 @@
+- Im Autoritären [Führungsstil]([[Führungsstile]]) ist die Kommunikation Top-down, also von oben nach untern, Organisiert. Das bedeutet der Vorgesetzte trifft Entscheidungen, der Mitarbeiter befolgt Detaillierte Weisungen des Vorgesetzten, der Mitarbeiter wird laufend vom Chef kontrolliert und bei Fehlverhalten wird hart Bestraft.
+  Damit ein Solcher Führungsstil funktioniert muss es ein kompetenten Vorgesetzten geben und die Mitarbeiter müssen folgsam sein.
+-

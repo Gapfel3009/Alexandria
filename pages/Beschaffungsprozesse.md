@@ -1,0 +1,2 @@
+- Bei dem Beschaffungsprozess geht es darum unter anderem abzuwägen welchen dingeb bei der Bestellung es sich lohnt nach günstigeren alternativen zu suchen und allgemein einen überblick über ausgaben etc. zu haben dafür gibt es die [[ABC-Analyse]].
+-

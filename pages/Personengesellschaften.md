@@ -1,0 +1,5 @@
+- [[Gesellschaft bürgerlichen Rechts (GbR)]]
+- [[Offene Handelsgesellschaft (OHG)]]
+- [[Kommanditgesellschaft (KG)]]
+- [[Gesellschaft mit beschränkter Haftung & Compagnie Kommanditgesellschaft (GmbH & Co. KG)]]
+-

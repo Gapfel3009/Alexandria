@@ -1,0 +1,5 @@
+- Man unterscheidet zwischen 3 arten der Finanzierung:
+	- [[Barkauf]]
+	- [[Ratenkauf]]
+	- [[Leasing]]
+-

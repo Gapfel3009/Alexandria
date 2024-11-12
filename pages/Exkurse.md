@@ -1,0 +1,5 @@
+- Alle Themen die im Itslearning ordner mit Exkurs Makiert sind
+	- [[Make or Buy]]
+	- [[Geschäftsfähigkeit]]
+	- [[Finanzierung]]
+-

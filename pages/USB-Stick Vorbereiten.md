@@ -1,0 +1,2 @@
+- Installiere das Gewünschte Betriebssystem auf deinen Rechner. Nutze Etcher um das Betriebssystem auf den Stick zu Flashen daraufhin kann der nächste schritt durchgeführt werden: [[Boot Reihenfolge ändern]]
+- Alternativ kann man auch mit hilfe von Ventoy mehrere Betriebssysteme auf einem Stick haben, da man quasi ein Betriebssystem auf den Stick lädt

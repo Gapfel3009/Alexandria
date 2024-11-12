@@ -1,0 +1,4 @@
+- Shareholder sind Anteilseigner bzw. Aktionäre, die Interesse darin haben, dass das Unternehmen mehr Kapital macht, da sie bei Profit des Unternehmens in Form von Dividenden selbst profitieren, das bedeutet auch dass jeder Shareholder auch ein [[Stakeholder]] ist.
+  Shareholder haben Anteile am Unternehmen gekauft und haben damit ein Stimmrecht, was das Unternehmen angeht, dass bedeutet, dass die Shareholder den Vorstand ersetzen können, wenn er nicht ihnen entspricht.
+- So wie es einen ((6622bdd1-c4af-4086-89c9-522cea3e08da)) gibt, gibt es auch einen ((6622bdd1-c4af-4086-89c9-522cea3e08da)) 
+  Beim Shareholder Value Ansatz wird die Priorität auf den Shareholder gesetzt also versucht das Unternehmen den Shareholder glücklich zu machen.

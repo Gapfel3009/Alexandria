@@ -1,0 +1,9 @@
+- Stakeholder Value Ansatz
+  id:: 6622bdd1-c4af-4086-89c9-522cea3e08da
+  Beim Shareholder Value Ansatz wird die Priorität auf den [[Shareholder]] gesetzt also versucht das Unternehmen den Shareholder glücklich zu machen, das bedeutet aber auch, dass ein Unternehmen das nach dem Shareholder Value Ansatz agiert bei Roten zahlen beginnt Mitarbeiter zu entlassen, damit die Dividende der [[Shareholder]] sicher ist und der Vorstand ihren Job behält.
+- Steakholder Value Ansatz
+  Beim Steakholder Value Ansatz wird versucht alle [[Steakholder]] gleich zu befriedigen, dabei guckt man welche Priorität hat welche Anspruchsgruppe und versucht ein Gleichgewicht zu schaffen. Das Problem dabei ist, dass die Anspruchsgruppe häufig konkurrierende Ansprüche haben, der Kunde möchte ein günstiges Produkt mit hoher Qualität, die [[Shareholder]] haben Interesse daran, dass das Unternehmen viel Umsatz macht, der Staat zum Beispiel in Form vom Umweltmysterium hat die Interessen, dass das Unternehmen möglichst Umweltfreundlich agiert und die Mitarbeiter wollen fair bezahlt werden.
+  In dem Beispiel haben Mitarbeiter und [[Shareholder]] ein eher neutrales Ziel zueinander, nahezu harmonisch.
+  Dafür sind die Forderungen der Kunden mit niedrigen Preisen für hohe Qualität konkurrierend zu allen anderen, der Umweltaspekt kann nur beachtet werden, wenn der Kunde gewollt ist, den dadurch angestiegenen Preis zu bezahlen, und Qualität mit niedrigen Preisen beißt sich sowieso, wer sowas bekommt, muss damit leben können, dass Menschen dafür ausgebeutet wurden.
+  
+  Wenn man das so sieht, kann man verstehen, warum sich 90 % der Unternehmen für den Shareholder-Value Ansatz entscheiden, es ist einfach eine Gruppe an Menschen Glücklich zu machen als alle Gruppen.

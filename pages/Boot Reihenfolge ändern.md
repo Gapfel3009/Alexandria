@@ -1,0 +1,2 @@
+- Um die Boot Reihenfolge zu ändern gibt es einen simplen weg, grundsätzlich musst du dich nur in den Bootloader bringen (Spamme eine F-Taste meistens F2) und Boot über USB mit der höchsten Priority einstellen. Der Nächste schritt ist dann: [[Booting eines Anderen Systems]]
+-

@@ -1,0 +1,16 @@
+- Ein Unternehmer (Auftragnehmer) wird zur Herstellung eines bestimmten Werks verpflichtet und dafür vom Auftraggeber (Besteller) entlohnt (Werklohn).
+  Der Unternehmer muss einen definierten Erfolg erreichen und nicht einfach die Dienstleistung. Zur Vertragserfüllung muss die Herstellung vollständig Erfolgen, der Besteller ist verpflichtet das Werk abzunehmen und den Werklohn zu zahlen wenn das Werk fertig ist.
+- Typische Kennzeichen für einen Werkvertrag:
+	- Herbeiführen eines bestimmten Arbeitsergebnisses (Erfolg) für den Besteller
+	- Der Unternehmer schafft durch seine Arbeitsleistung das vereinbarte Werk
+	- Ist der Unternehmer mit seiner Leistung fertig, muss der Besteller es abnehmen
+	- Der Unternehmer trägt das Risiko für das Gelingen des vereinbarten Arbeitsergebnisses
+	- Bezahlt  wird nach der Herstellung des Werkes oder in zuvor festgelegten Zeitabschnitten
+- Anwendungsfälle für Werkvertrag
+	- Reparaturen
+	- Wartungen
+	- Erstellung, Einführung und Veränderung von Software
+	- Herstellung von Bauwerken
+	- Herstellung Gutachten oder Baupläne
+-
+- Achtung: Bei der Lieferung beweglicher Sachen die erst Herzustellen oder zu erzeugen sind, findet das Kaufrecht Anwendung (z.B. Lieferung und Einbau von Fenstern und Türen oder kauf von Solaranlage mit Montage). Bei Software ist zwischen individueller Software für einen Kunden (Werkvertrag) und Standartsoftware ([[Kaufvertag]]) zu unterscheiden

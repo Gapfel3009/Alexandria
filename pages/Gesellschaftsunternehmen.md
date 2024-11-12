@@ -1,0 +1,11 @@
+- Gesellschaftsunternehmen werden in [[Personengesellschaften]] und [[Kapitalgesellschaften]] unterteilt
+-
+- Kapitalgesellschaften
+	- [[Gesellschaft mit beschränkter Haftung (GmbH)]]
+	- [[Aktiengesellschaft (AG)]]
+	- [[Unternehmergesellschaft (UG)]]
+- Personengesellschaft
+	- [[Gesellschaft bürgerlichen Rechts (GbR)]]
+	- [[Offene Handelsgesellschaft (OHG)]]
+	- [[Kommanditgesellschaft (KG)]]
+	- [[Gesellschaft mit beschränkter Haftung & Compagnie Kommanditgesellschaft (GmbH & Co. KG)]]

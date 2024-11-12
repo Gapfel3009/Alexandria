@@ -1,0 +1,1 @@
+- Unbeschränkt oder voll geschäftsfähig sind Personen mit Vollendung des 18. Lebensjahres, sofern sie nicht zum Personenkreis der Geschäftsunfähigen oder beschränkt Geschäftsfähigen gehören. Rechtsgeschäfte, die von Geschäftsfähigen abgeschlossen werden, sind voll wirksam.

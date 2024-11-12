@@ -1,0 +1,3 @@
+- Godot ist eine Open Source Game Engine mit ihrer eigenen Programmiersprache namens [[GDScript]] die stark an [[Python]] erinnert. Um diese zu lernen gibt es einen guten Lernkurs, von [GD-Quest](https://www.youtube.com/@Gdquest) einem sehr starken Youtube Kanal spezifisch für Gamedev im Bezug zu Godot, [Hier zum Kurs](https://gdquest.github.io/learn-gdscript/).
+- Godot Download 
+  https://godotengine.org/download/windows/

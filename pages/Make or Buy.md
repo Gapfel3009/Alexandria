@@ -1,0 +1,1 @@
+- Die Make-or-Buy-Entscheidung ist eine Entscheidung, ob eine bestimmte Leistung oder ein bestimmtes Produkt, selbst gemacht wird (make) oder von einer Externen  Firma die Aufgabe Übernimmt (Buy). Dies bestimmt man mit Hilfe einer Machbarkeitsprüfung in unsterm fall machen wir eine [[Nutzwertanalyse]]

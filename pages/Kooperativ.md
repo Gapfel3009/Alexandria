@@ -1,0 +1,2 @@
+- Im Kooperativen [Führungsstil]([[Führungsstile]])wird mit einander gearbeitet. Mitarbeiter werden beim Entscheidungsprozess beteiligt, hoher Informationsaustausch ist geboten, von dem Mitarbeiter wird Eigenverantwortung erwartet und bei Fehlverhalten werden angemessene Sanktionen verhängt.
+  Damit ein solcher Führungsstil funktioniert müssen die die Mitarbeiter sich gegenseitig vertrauen, Teamfähig sein und die Mitarbeiter müssen engagiert sein.
